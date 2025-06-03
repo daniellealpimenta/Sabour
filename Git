@@ -1,0 +1,66 @@
+
+# Xcode
+build/
+DerivedData/
+*.xcworkspace
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+*.xcuserdatad/
+*.moved-aside
+*.hmap
+*.ipa
+
+# SwiftPM
+.build/
+.swiftpm/xcode/package.xcworkspace/
+
+# User-specific files
+*.DS_Store
+*.swp
+*.lock
+*.xcconfig
+*.orig
+
+# Swift Package Manager artifacts
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Firebase crashlytics
+*.dSYM.zip
+*.dSYM
+
+# Archive
+*.xcarchive
+
+# Logs
+*.log
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Temporary
+*.tmp
+*.temp
+
+# Preview assets
+*.preview-thumbnails
+
+# Xcode cloud
+.xcresult/
+
+# Environment settings (optional, remove if you use env vars)
+.env
