@@ -9,7 +9,7 @@ import SwiftUI
 import TipKit
 
  @main
- struct KitchenApp: App {
+ struct SabourApp: App {
      @StateObject private var favoritesManager = FavoritesManager()
      @StateObject var gameTimerManager = GameTimerManager()
      @StateObject var globalAppState = GlobalAppState()

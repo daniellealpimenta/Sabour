@@ -16,9 +16,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CDBB5C0A2DBAB83800C5D42D"
-               BuildableName = "Kitchen.app"
-               BlueprintName = "Kitchen"
-               ReferencedContainer = "container:Kitchen.xcodeproj">
+               BuildableName = "Sabour.app"
+               BlueprintName = "Sabour"
+               ReferencedContainer = "container:Sabour.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -36,9 +36,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CDBB5C172DBAB83900C5D42D"
-               BuildableName = "KitchenTests.xctest"
-               BlueprintName = "KitchenTests"
-               ReferencedContainer = "container:Kitchen.xcodeproj">
+               BuildableName = "SabourTests.xctest"
+               BlueprintName = "SabourTests"
+               ReferencedContainer = "container:Sabour.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CDBB5C212DBAB83900C5D42D"
-               BuildableName = "KitchenUITests.xctest"
-               BlueprintName = "KitchenUITests"
-               ReferencedContainer = "container:Kitchen.xcodeproj">
+               BuildableName = "SabourUITests.xctest"
+               BlueprintName = "SabourUITests"
+               ReferencedContainer = "container:Sabour.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -69,9 +69,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CDBB5C0A2DBAB83800C5D42D"
-            BuildableName = "Kitchen.app"
-            BlueprintName = "Kitchen"
-            ReferencedContainer = "container:Kitchen.xcodeproj">
+            BuildableName = "Sabour.app"
+            BlueprintName = "Sabour"
+            ReferencedContainer = "container:Sabour.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -86,9 +86,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CDBB5C0A2DBAB83800C5D42D"
-            BuildableName = "Kitchen.app"
-            BlueprintName = "Kitchen"
-            ReferencedContainer = "container:Kitchen.xcodeproj">
+            BuildableName = "Sabour.app"
+            BlueprintName = "Sabour"
+            ReferencedContainer = "container:Sabour.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
