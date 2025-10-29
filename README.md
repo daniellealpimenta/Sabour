@@ -1,3 +1,5 @@
+![Banner do Sabour](./Banner/BannerSabour.png)
+
 # 🍰 Sabour  
 
 > Um jogo criado inteiramente com **SwiftUI**, trazendo uma experiência imersiva e visualmente deliciosa.
